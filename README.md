@@ -23,7 +23,7 @@ MarketPlace Link: http://mystoreonlinehosted.com/MarketPlace/index.php
 * Adding other login API’s.
 
 ## Team Members
-* Anubha Mandal
+* Anubha Mandal (Individual site: http://2youfromm3.com/ )
 * Ketki Bhusari
 * Kshama nidhi
 * Lakshmi Bharatula
