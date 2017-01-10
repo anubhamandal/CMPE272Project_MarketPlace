@@ -1,11 +1,14 @@
 # CMPE272Project_MarketPlace
-This website was created as a project requirement for CMPE272
+The website was created as a project requirement for CMPE272
 
 ## Cross Domain Online Market Place
 This project of Market Place is supposed to be an e-commerce website which should feature all the products of the individual sites created by students in the due course of CMPE272.
 
 ## Architecture
 ![Overall Architecture](./architecture.png)
+
+## Video Demo: ::
+https://youtu.be/6K_6x4uI8ck
 
 ## Features
 * User Creation and Login
